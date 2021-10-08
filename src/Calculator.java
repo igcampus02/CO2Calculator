@@ -11,5 +11,21 @@ public class Calculator {
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
+
+        // Modulo
+        boolean even = 2 % 2 == 0;
+        System.out.println(even);
+
+        //Addition
+        int g = 2+ 3;
+        System.out.println(g);
+
+        //Subtraktion
+        int f = 9-23;
+        System.out.println(f);
+
+
+
+
     }
 }
